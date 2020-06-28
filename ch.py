@@ -1,7 +1,7 @@
 #!/usr/bin/python3.5
 # coding: utf-8
 
-# Let's parse the string of Chinese characters and get a single ones, separated with '/n'
+# Let's parse the string of Chinese characters and get the single ones, separated with '/n'
 
 import tensorflow as tf
 
