@@ -17,3 +17,4 @@ str = tf.py_func(
 with tf.Session() as sess:
 	value = sess.run(str)
 	print(value.decode('utf-8'))
+
