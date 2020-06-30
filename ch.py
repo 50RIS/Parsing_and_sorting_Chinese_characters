@@ -1,6 +1,9 @@
 #!/usr/bin/python3.5
 # coding: utf-8
 
+# 大家好！
+# by Boris Zubov (鲍里斯) contact@technodrive.ru
+
 # UPD: To get the Chinese characters sorted, -- not only parsed -- run two scripts in pipe:
 # ./ch.py | sort_Chinese_characters.sh
 
