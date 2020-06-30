@@ -1,10 +1,12 @@
 # hello-world2
 大家好！
 
-Description:
+The python3.5 script *** ch.py *** parses a string of Chinese characters into the column of single ones.
+Don't forget to load the libraries!
 
-The script *** ch.py *** can parse a string of Chinese characters into the single ones.
+The bash script *** sort_Chinese_characters.sh *** sortes hieroglyphs using their UTF-8 codes.
 
-Warning:
+Runs the scripts in a Linux pipe like this:
+./ch.py | ./sort_Chinese_characters.sh
 
-Take care when sorting the output in bash, the standart 'sort' etc 只错的！ (just incorrect)
+再見！
