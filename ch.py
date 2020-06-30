@@ -1,6 +1,11 @@
 #!/usr/bin/python3.5
 # coding: utf-8
 
+# UPD: To get the Chinese characters sorted, -- not only parsed -- run two scripts in pipe:
+# ./ch.py | sort_Chinese_characters.sh
+
+# The characters are kept in the unicode string below for a now:
+
 # Let's parse the string of Chinese characters and get the single ones, separated with '/n'
 
 import tensorflow as tf
