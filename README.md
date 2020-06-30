@@ -1,4 +1,4 @@
-# hello-world2
+# Parsing and sorting a string of Chinese characters by the unicode values
 大家好！
 
 The python3.5 script **ch.py** parses a string of Chinese characters into the column of single ones.
