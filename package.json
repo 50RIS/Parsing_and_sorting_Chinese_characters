@@ -1,0 +1,19 @@
+{
+  "name": "parsing_and_sorting_chinese_characters",
+  "version": "1.0.0",
+  "description": "Parsing and sorting chinese characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/50RIS/Parsing_and_sorting_Chinese_characters.git"
+  },
+  "author": "Boris Zubov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/50RIS/Parsing_and_sorting_Chinese_characters/issues"
+  },
+  "homepage": "https://github.com/50RIS/Parsing_and_sorting_Chinese_characters#readme"
+}
